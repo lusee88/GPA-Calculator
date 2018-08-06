@@ -1,6 +1,6 @@
 # Waterloo Double Degree GPA Calculator 2018 
 
-
+![alt text](https://github.com/lusee88/GPA-Calculator/blob/master/AppDesign.png)
 
 # Inspiration
 The Double Degree students have trouble managing the different mark conversions and grading systems between the two universities. This application was created just to make a common grading ground using the 4.0 calculations for students. The application relieves the burden of looking up conversions each time and making it overall more convenient to know their marks.
